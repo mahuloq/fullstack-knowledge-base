@@ -1,0 +1,1 @@
+Getting Started -> Basics -> Components and Databinding -> Directives - > Services and Dependecy Injection - > Routing - > Observables - > Forms - > Pipes -> http - > Authentication - > Optimziation - > Deployment - > Animations/Testing
